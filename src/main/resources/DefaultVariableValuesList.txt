@@ -1,0 +1,59 @@
+Buildings
+  Academy
+buildingAcademyHP:100
+buildingAcademyTimeToBuild:90
+upgradingAcademyHPLevelN:150
+upgradingAcademyTimeToUpgradeLvlN:60
+
+ TownHall
+buildingTownHallHP:1000
+buildingTownHallTimeToBuild:120
+upgradingTownHallHPLevelN:200
+upgradingTownHallTimeToUpgradeLvlN:60
+
+  Farm
+buildingFarmHP:100
+buildingFarmTimeToBuild:60
+upgradingFarmHPLevelN:100
+upgradingFarmTimeToUpgradeLvlN:60
+
+  Mine
+buildingMineHP:100
+buildingMineTimeToBuild:60
+upgradingMineHPLevelN:100
+upgradingMineTimeToUpgradeLvlN:60
+
+Troops
+  Archer
+troopArcherHP:100
+troopArcherAttack:10
+troopArcherDefence:16
+troopArcherTimeToBuild:20
+
+  Swordsman
+troopSwordsmanHP:100
+troopSwordsmanAttack:12
+troopSwordsmanDefence:14
+troopSwordsmanTimeToBuild:30
+
+  Pikeman
+troopPikemanHP:100
+troopPikemanAttack:13
+troopPikemanDefence:13
+troopPikemanTimeToBuild:40
+
+  Axeman
+troopAxemanHP:100
+troopAxemanAttack:14
+troopAxemanDefence:12
+troopAxemanTimeToBuild:45
+
+  Horseman
+troopHorsemanHP:100
+troopHorsemanAttack:16
+troopHorsemanDefence:10
+troopHorsemanTimeToBuild:50
+
+StarterPack
+starterGold:100
+starterFood:50
