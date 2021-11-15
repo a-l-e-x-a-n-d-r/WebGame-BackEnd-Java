@@ -21,6 +21,11 @@ You may then gather your army and conquer other kingdoms.
 ## Technologies used in this project
 ![alt text](src/main/resources/technologies.jpg)
 
+## Environment Variables
+To run the application and for running the tests.
+
+![alt text](src/main/resources/ENVvariables.jpg)
+
 
 
 
